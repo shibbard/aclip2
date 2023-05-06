@@ -1,4 +1,4 @@
-# AClip2 
+# :scissors: AClip2 
 
 Image Resize, Background Removal, Conversion to PNG(300DPI,SVG) and ZIP Archiving. 
 
