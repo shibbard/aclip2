@@ -51,6 +51,11 @@ python zipem.py <input_folder> <project_name>
    ```
 
 After running both scripts, you will have two zip files (`<project_name>-png.zip` and `<project_name>-svg.zip`) containing the processed PNG and SVG images in the input folder.
-```
 
-This README provides an overview of the scripts, their usage, and a suggested workflow. You can customize the content to better suit your project or add more information if needed.
+
+## Dependencies
+The scripts require the following Python libraries to be installed:
+
+- `Pillow`
+- `svgwrite`
+
