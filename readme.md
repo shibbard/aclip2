@@ -1,4 +1,8 @@
-# Image Resize, Background Removal, Conversion to PNG(300DPI,SVG) and ZIP Archiving
+# AClip2 
+
+Image Resize, Background Removal, Conversion to PNG(300DPI,SVG) and ZIP Archiving. 
+
+Useful for automating the process of creating ClipArt packs from AI Images, for upload to marketplaces such as Etsy to be sold as digital products.
 
 This repository contains two Python scripts to automate the process of resizing images, removing backgrounds from them, creating 300DPI PNG files and SVG files, and creating zip archives for the processed images (one for PNG, one for SVG).
 
