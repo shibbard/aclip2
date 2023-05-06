@@ -1,5 +1,3 @@
-Here's a sample GitHub README for the `aclip2.py` and `zipem.py` scripts. You can create a new `README.md` file in your GitHub repository and paste the following content into it:
-
 ```markdown
 # Image Background Removal and Archiving
 
