@@ -1,7 +1,6 @@
-```markdown
-# Image Background Removal and Archiving
+# Image Resize, Background Removal, Conversion to PNG(300DPI,SVG) and ZIP Archiving
 
-This repository contains two Python scripts to automate the process of removing backgrounds from images and creating zip archives for the processed images.
+This repository contains two Python scripts to automate the process of resizing images, removing backgrounds from them, creating 300DPI PNG files and SVG files, and creating zip archives for the processed images (one for PNG, one for SVG).
 
 ## aclip2.py
 
